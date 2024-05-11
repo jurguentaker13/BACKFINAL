@@ -1,0 +1,10 @@
+com\example\demo\Controller\AlumnoPrueba.class
+com\example\demo\Entity\Maestro.class
+com\example\demo\FinalBackApplication.class
+com\example\demo\Service\ServicioMaestro.class
+com\example\demo\Controller\MaestroPrueba.class
+com\example\demo\Entity\Alumno.class
+com\example\demo\Repository\AlumnoRepo.class
+com\example\demo\FinalBackApplication$1.class
+com\example\demo\Repository\MaestroRepo.class
+com\example\demo\Service\ServicioAlumno.class
